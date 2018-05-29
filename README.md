@@ -1,3 +1,3 @@
 # Frontend daily practice
 ---
-![Alt text](/resources/python.jpg)
+![Alt text](/resources/web.jpg)
